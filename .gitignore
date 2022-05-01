@@ -1,4 +1,5 @@
-application .log
+application.log
+applicaiton.log
 *.log
 *.bak
 README.md.bak
