@@ -8,3 +8,6 @@ We are on Video #33 (Resolve Confict)
 
 This is result after using P4Merge to resolve "very-bad" branch
 
+This is a new work for video #35 - stashing
+
+
